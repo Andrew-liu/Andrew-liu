@@ -35,31 +35,6 @@ Backend engineer with years of production experience in **C++, Go and Python** �
 
 ---
 
-## 📌 Featured
-
-<div align="center">
-
-<a href="https://github.com/Andrew-liu/Andrew-liu.github.io">
-  <img alt="Blog" src="https://img.shields.io/badge/Snow_Memory-Personal_Blog,_Hexo_+_GitHub_Actions-2563eb?style=for-the-badge&logo=hexo&logoColor=white" />
-</a>
-<a href="https://github.com/Andrew-liu/Andrew-liu.github.io/stargazers">
-  <img alt="Stars" src="https://img.shields.io/github/stars/Andrew-liu/Andrew-liu.github.io?style=for-the-badge&logo=github&label=%E2%98%85" />
-</a>
-
-<!-- 新项目占位：公开后复制下面模板，替换仓库名和描述即可
-<br /><br />
-<a href="https://github.com/Andrew-liu/YOUR-AGENT-PROJECT">
-  <img alt="Project" src="https://img.shields.io/badge/PROJECT_NAME-short_description-16a34a?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/Andrew-liu/YOUR-AGENT-PROJECT/stargazers">
-  <img alt="Stars" src="https://img.shields.io/github/stars/Andrew-liu/YOUR-AGENT-PROJECT?style=for-the-badge&logo=github&label=%E2%98%85" />
-</a>
--->
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
