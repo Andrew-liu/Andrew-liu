@@ -50,7 +50,11 @@ Backend engineer with years of production experience in **C++, Go and Python** �
 
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Mac重装小计](https://blog.dinosaurliu.com/2017/06/18/Mac%E9%87%8D%E8%A3%85%E5%B0%8F%E8%AE%A1/) — 2017-06-18 
+- [2016成就墙完成情况总结](https://blog.dinosaurliu.com/2017/01/17/2016%E6%88%90%E5%B0%B1%E5%A2%99%E5%AE%8C%E6%88%90%E6%83%85%E5%86%B5%E6%80%BB%E7%BB%93/) — 2017-01-17 
+- [开发机安装配置golang和使用CGI](https://blog.dinosaurliu.com/2016/12/13/%E5%BC%80%E5%8F%91%E6%9C%BA%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AEgolang%E5%92%8C%E4%BD%BF%E7%94%A8CGI/) — 2016-12-13 
+- [传统软件公司/创业公司/大公司的工作机会如何选择？](https://blog.dinosaurliu.com/2016/11/21/%E4%BC%A0%E7%BB%9F%E8%BD%AF%E4%BB%B6%E5%85%AC%E5%8F%B8-%E5%88%9B%E4%B8%9A%E5%85%AC%E5%8F%B8-%E5%A4%A7%E5%85%AC%E5%8F%B8%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%9C%BA%E4%BC%9A%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%EF%BC%9F/) — 2016-11-21 
+- [Linux内核设计与实现读书笔记](https://blog.dinosaurliu.com/2016/11/15/Linux%E5%86%85%E6%A0%B8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/) — 2016-11-15 
 <!-- BLOG-POST-LIST:END -->
 
 ---
