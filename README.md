@@ -47,8 +47,6 @@ I'm **Andrew Liu**, a Backend Engineer with years of production experience in **
   &nbsp;
   <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=flat-square&logo=openai&logoColor=fff" alt="ChatGPT"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=fff" alt="GitHub Copilot"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/Cursor-7aa2f7?style=flat-square&logo=cursor&logoColor=fff" alt="Cursor"/>
 </div>
 
@@ -57,7 +55,17 @@ I'm **Andrew Liu**, a Backend Engineer with years of production experience in **
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Andrew-liu&theme=tokyonight&hide_border=true&border_radius=12" height="180" alt="Streak Stats"/>
+  <a href="https://github.com/Andrew-liu?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAndrew-liu&query=%24.public_repos&label=REPOS&style=for-the-badge&color=7aa2f7&labelColor=1a1b27" alt="Public Repos"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Andrew-liu?tab=followers">
+    <img src="https://img.shields.io/github/followers/Andrew-liu?label=FOLLOWERS&style=for-the-badge&color=bb9af7&labelColor=1a1b27" alt="Followers"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Andrew-liu/Andrew-liu.github.io/stargazers">
+    <img src="https://img.shields.io/github/stars/Andrew-liu?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=7dcfff&labelColor=1a1b27" alt="Total Stars"/>
+  </a>
 </div>
 
 ---
