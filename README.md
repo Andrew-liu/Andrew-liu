@@ -1,53 +1,97 @@
 <div align="center">
-
-# Andrew Liu
-
-### Backend Engineer · C++ / Go / Python · Building AI Agents
-
-<p>
-  <a href="https://isocpp.org/"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
-  <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
-  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/Andrew-liu?tab=repositories"><img alt="Open Source" src="https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p>
-  <a href="https://blog.dinosaurliu.com/">Blog</a>
-  ·
-  <a href="https://x.com/xueyu1125">X (Twitter)</a>
-  ·
-  <a href="https://github.com/Andrew-liu?tab=repositories">Repositories</a>
-</p>
-
+  <img src="https://raw.githubusercontent.com/Andrew-liu/Andrew-liu/main/banner.svg" width="100%"/>
 </div>
 
----
-
-## 👋 About
-
-Backend engineer with years of production experience in **C++, Go and Python** — systems programming, game development, and distributed systems.
-
-**Currently building:** AI Agent projects — agentic workflows, RAG pipelines and coding agents.
-
-- 🔭 Exploring: Code Agents, context engineering, RAG architectures
-- ✍️ Writing at [blog.dinosaurliu.com](https://blog.dinosaurliu.com/)
-- 📫 Reach me on [X](https://x.com/xueyu1125)
-
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-
-<p>
-  <a href="https://github.com/Andrew-liu?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Andrew-liu?style=for-the-badge&logo=github&label=Followers&color=2563eb" /></a>
-  <img alt="Top language: C++" src="https://img.shields.io/badge/Top_Langs-C%2B%2B_%C2%B7_Go_%C2%B7_Python-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=45&lines=Backend+Engineer+%7C+C%2B%2B+%C2%B7+Go+%C2%B7+Python;Systems+Programming+%26+Distributed+Systems;Game+Development+Background+%F0%9F%8E%AE;Now+Building+AI+Agents+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew-liu/Andrew-liu/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andrew-liu/Andrew-liu/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Andrew-liu/Andrew-liu/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Andrew-liu?tab=followers">
+    <img src="https://img.shields.io/github/followers/Andrew-liu?label=FOLLOWERS&style=for-the-badge&color=bb9af7&labelColor=1a1b27" alt="Followers"/>
+  </a>
+  &nbsp;
+  <a href="https://blog.dinosaurliu.com/">
+    <img src="https://img.shields.io/badge/BLOG-Snow%20Memory-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Blog"/>
+  </a>
+</div>
+
+---
+
+### 🙋 About Me
+
+I'm **Andrew Liu**, a Backend Engineer with years of production experience in **C++, Go and Python**.
+
+- 🔧 Experienced in **systems programming**, **game development**, and **distributed systems**
+- 🚀 Currently building **AI Agent** projects — agentic workflows, RAG pipelines and coding agents
+- ✍️ Writing at **[blog.dinosaurliu.com](https://blog.dinosaurliu.com/)**
+- ⚡ Fun fact: **My debugging = 40% logs + 30% coffee + 20% gdb + 10% luck**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,go,py,bash,linux,git,vim&perline=7" /><br/>
+  <img src="https://skillicons.dev/icons?i=redis,mysql,mongodb,docker,kubernetes,nginx,cmake&perline=7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=fff" alt="Claude"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=flat-square&logo=openai&logoColor=fff" alt="ChatGPT"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=fff" alt="GitHub Copilot"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cursor-7aa2f7?style=flat-square&logo=cursor&logoColor=fff" alt="Cursor"/>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Andrew-liu&theme=tokyonight&hide_border=true&border_radius=12" height="180" alt="Streak Stats"/>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew-liu/Andrew-liu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andrew-liu/Andrew-liu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Andrew-liu/Andrew-liu/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</div>
+
+---
+
+### 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://x.com/xueyu1125">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  &nbsp;
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=liu.bin.coder@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://blog.dinosaurliu.com/">
+    <img src="https://img.shields.io/badge/Blog-7aa2f7?style=for-the-badge&logo=hexo&logoColor=white" alt="Blog"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Andrew-liu/Andrew-liu/main/footer.svg" width="100%"/>
+</div>
