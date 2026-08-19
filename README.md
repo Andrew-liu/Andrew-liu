@@ -25,12 +25,12 @@
 
 ## 👋 About
 
-Backend engineer with years of production experience in **C++, Go and Python** — systems programming, source-code reading notes (Protobuf / Tornado / Redis internals), and distributed systems.
+Backend engineer with years of production experience in **C++, Go and Python** — systems programming, game development, and distributed systems.
 
 **Currently building:** AI Agent projects — agentic workflows, RAG pipelines and coding agents.
 
 - 🔭 Exploring: Code Agents, context engineering, RAG architectures
-- ✍️ Writing at [blog.dinosaurliu.com](https://blog.dinosaurliu.com/) — 157 long-form posts on systems & languages
+- ✍️ Writing at [blog.dinosaurliu.com](https://blog.dinosaurliu.com/)
 - 📫 Reach me on [X](https://x.com/xueyu1125)
 
 ---
@@ -39,23 +39,24 @@ Backend engineer with years of production experience in **C++, Go and Python** �
 
 <div align="center">
 
-<a href="https://github.com/Andrew-liu/Andrew-liu.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Andrew-liu&repo=Andrew-liu.github.io&theme=transparent&hide_border=true" alt="Blog repository" /></a>
-<!-- 项目卡片占位：新项目公开后，复制上面一行并替换 repo= 参数即可
-<a href="https://github.com/Andrew-liu/YOUR-AGENT-PROJECT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Andrew-liu&repo=YOUR-AGENT-PROJECT&theme=transparent&hide_border=true" alt="Agent project" /></a>
+<a href="https://github.com/Andrew-liu/Andrew-liu.github.io">
+  <img alt="Blog" src="https://img.shields.io/badge/Snow_Memory-Personal_Blog,_Hexo_+_GitHub_Actions-2563eb?style=for-the-badge&logo=hexo&logoColor=white" />
+</a>
+<a href="https://github.com/Andrew-liu/Andrew-liu.github.io/stargazers">
+  <img alt="Stars" src="https://img.shields.io/github/stars/Andrew-liu/Andrew-liu.github.io?style=for-the-badge&logo=github&label=%E2%98%85" />
+</a>
+
+<!-- 新项目占位：公开后复制下面模板，替换仓库名和描述即可
+<br /><br />
+<a href="https://github.com/Andrew-liu/YOUR-AGENT-PROJECT">
+  <img alt="Project" src="https://img.shields.io/badge/PROJECT_NAME-short_description-16a34a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Andrew-liu/YOUR-AGENT-PROJECT/stargazers">
+  <img alt="Stars" src="https://img.shields.io/github/stars/Andrew-liu/YOUR-AGENT-PROJECT?style=for-the-badge&logo=github&label=%E2%98%85" />
+</a>
 -->
 
 </div>
-
----
-
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->- [Mac重装小计](https://blog.dinosaurliu.com/2017/06/18/Mac%E9%87%8D%E8%A3%85%E5%B0%8F%E8%AE%A1/) — 2017-06-18 
-- [2016成就墙完成情况总结](https://blog.dinosaurliu.com/2017/01/17/2016%E6%88%90%E5%B0%B1%E5%A2%99%E5%AE%8C%E6%88%90%E6%83%85%E5%86%B5%E6%80%BB%E7%BB%93/) — 2017-01-17 
-- [开发机安装配置golang和使用CGI](https://blog.dinosaurliu.com/2016/12/13/%E5%BC%80%E5%8F%91%E6%9C%BA%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AEgolang%E5%92%8C%E4%BD%BF%E7%94%A8CGI/) — 2016-12-13 
-- [传统软件公司/创业公司/大公司的工作机会如何选择？](https://blog.dinosaurliu.com/2016/11/21/%E4%BC%A0%E7%BB%9F%E8%BD%AF%E4%BB%B6%E5%85%AC%E5%8F%B8-%E5%88%9B%E4%B8%9A%E5%85%AC%E5%8F%B8-%E5%A4%A7%E5%85%AC%E5%8F%B8%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%9C%BA%E4%BC%9A%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9%EF%BC%9F/) — 2016-11-21 
-- [Linux内核设计与实现读书笔记](https://blog.dinosaurliu.com/2016/11/15/Linux%E5%86%85%E6%A0%B8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/) — 2016-11-15 
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -63,8 +64,10 @@ Backend engineer with years of production experience in **C++, Go and Python** �
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Andrew-liu&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-liu&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" />
+<p>
+  <a href="https://github.com/Andrew-liu?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Andrew-liu?style=for-the-badge&logo=github&label=Followers&color=2563eb" /></a>
+  <img alt="Top language: C++" src="https://img.shields.io/badge/Top_Langs-C%2B%2B_%C2%B7_Go_%C2%B7_Python-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
 </div>
 
