@@ -11,10 +11,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/Andrew-liu?tab=followers">
-    <img src="https://img.shields.io/github/followers/Andrew-liu?label=FOLLOWERS&style=for-the-badge&color=bb9af7&labelColor=1a1b27" alt="Followers"/>
-  </a>
-  &nbsp;
   <a href="https://blog.dinosaurliu.com/">
     <img src="https://img.shields.io/badge/BLOG-Snow%20Memory-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Blog"/>
   </a>
@@ -47,7 +43,7 @@ I'm **Andrew Liu**, a Backend Engineer with years of production experience in **
   &nbsp;
   <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=flat-square&logo=openai&logoColor=fff" alt="ChatGPT"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Cursor-7aa2f7?style=flat-square&logo=cursor&logoColor=fff" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=fff" alt="DeepSeek"/>
 </div>
 
 ---
